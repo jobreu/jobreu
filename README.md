@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johannes Breuer
 
-- 👨‍💻 I'm a senior researcher at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home)
+- 👨‍💻 I'm a senior researcher at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home) and the [Center for Advanced Internet Studies (CAIS)](https://www.cais.nrw/en/center-for-advanced-internet-studies-cais-en/)
 - 📚 My background is in (media) psychology and communication
 - 📊 My main research interests are the the uses and effects of digital media, computational methods, and open science
 - ❤️ My favorite programming language is `R`

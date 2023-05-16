@@ -8,4 +8,6 @@
 - 🌍 You can find more information about me and my work on my [personal website](https://www.johannesbreuer.com/)
 - You can also find me on 🐦 [Twitter](https://twitter.com/MattEagle09) & 🐘 [Mastodon](https://fediscience.org/@JohannesBreuer)
 
-[![Johannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jobreu)](https://github.com/jobreu/github-readme-stats)
+[![Johannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jobreu&theme=tokyonight&show_icons=true)](https://github.com/jobreu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobreu&layout=compact&theme=tokyonight)](https://github.com/jobreu/github-readme-stats)

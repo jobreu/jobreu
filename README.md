@@ -7,3 +7,5 @@
 - :octocat: You can find my code projects (mostly teaching materials) here on [GitHub](https://github.com/jobreu?tab=repositories)
 - 🌍 You can find more information about me and my work on my [personal website](https://www.johannesbreuer.com/)
 - You can also find me on 🐦 [Twitter](https://twitter.com/MattEagle09) & 🐘 [Mastodon](https://fediscience.org/@JohannesBreuer)
+
+[![Johannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=jobreu)](https://github.com/jobreu/github-readme-stats)

@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm a senior researcher and team leader at [GESIS - Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home), Department Computational Social Science
 - 📚 My background is in (media) psychology and communication
-- 📊 My main research interests are the the uses and effects of digital media, computational methods, and open science
+- 📊 My main research interests are the the uses and effects of digital media, digital trace data and computational methods, open science, and meta-science
 - ❤️ My favorite programming language is `R`
 - :octocat: You can find my code projects (mostly teaching materials) here on [GitHub](https://github.com/jobreu?tab=repositories)
 - 🌍 You can find more information about me and my work on my [personal website](https://www.johannesbreuer.com/)
